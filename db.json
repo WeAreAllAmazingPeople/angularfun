@@ -1,42 +1,6 @@
-{"heroes": [{
-		"id": 11,
-		"name": "Dr Nice"
-	},
-	{
-		"id": 12,
-		"name": "Narco"
-	},
-	{
-		"id": 13,
-		"name": "Bombasto"
-	},
-	{
-		"id": 14,
-		"name": "Celeritas"
-	},
-	{
-		"id": 15,
-		"name": "Magneta"
-	},
-	{
-		"id": 16,
-		"name": "RubberMan"
-	},
-	{
-		"id": 17,
-		"name": "Dynama"
-	},
-	{
-		"id": 18,
-		"name": "Dr IQ"
-	},
-	{
-		"id": 19,
-		"name": "Magma"
-	},
-	{
-		"id": 20,
-		"name": "Tornado"
-	}
+{"heroes": [    { "id": 1, "name": "Claudius Ptolemy", "bio": "Claudius Ptolemy (AD 90-168) lived in Egypt but possessed Greek ancestry. As a mathematician, geographer and astronomer, he authored several scientific texts which had considerable impact on Western intellectual thought." },
+      { "id": 2, "name": "Nicolaus Copernicus", "bio": "Nicolaus Copernicus (1473-1543) shattered the long-held notion that the Earth was the center of the solar system, proposing a heliocentric (sun-centered) model instead." },
+      { "id": 8, "name": "Valentina Tereshkova", bio: "Valentina Vladimirovna Tereshkova is a member of the Russian State Duma, engineer, and former cosmonaut. She is the first and youngest woman to have flown in space with a solo mission on the Vostok 6 on 16 June 1963." },
+      { "id": 12, "name": "Peggy Whitson", "bio": "In 2008, the first woman to command the International Space Station was Dr. Peggy Whitson, who also holds the American record for cumulative days in space – over 376 days." }
 ]
 }
