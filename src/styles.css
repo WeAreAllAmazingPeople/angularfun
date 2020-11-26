@@ -1,1 +1,123 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Orbitron:wght@400;900&display=swap');
+
+body {
+  margin: 2em;
+  background-image: url(./assets/stardust.png);
+  background-attachment: fixed;
+}
+
+h1 {
+  color: #F2622E;
+  font-family: 'Monoton', cursive;
+  font-size: 500%;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+hr {
+  width: 50%;
+  border: 2px solid #F2622E;
+  background-color: #F2622E;
+}
+
+h2:nth-child(4) {
+  font-size: 350%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 100%;
+  color: #F29B30;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#topnav{
+  padding-bottom: 50px;
+}
+
+#topnav a{
+  float: left;
+  color: #F2622E;
+  text-decoration: none;
+  padding-right: 30px;
+  font-size: 150%;
+  font-weight: bold;
+
+}
+
+#topnav a:hover{
+  color: #F29B30;
+}
+
+#topnav ul li a{
+  font-size: 15px;
+}
+
+::placeholder{
+  color: #F2622E;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+}
+
+#search-box {
+  float: right;
+  width: 200px;
+  height: 20px;
+  outline: none;
+}
+
+#topnav ul.search-result {
+  float: right;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+
+h3 {
+  color: #53A68E;
+  font-size: 200%;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+
+body, input[type="text"], button {
+  color: #F2622E;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 20px;
+
+}
+
+input#search-box{
+  outline: none;
+}
+
+button {
+  font-weight: bold;
+}
+
+button:hover {
+  color: #F29B30;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+label {
+  font-size: 150%;
+}
+
+#footer {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-size: 120%;
+  text-align: center;
+  color: #53A68E;
+}
+
+li a{
+  color:#F2622E !important;
+}
+
+li a:hover{
+  color:#F2622E !important;
+}

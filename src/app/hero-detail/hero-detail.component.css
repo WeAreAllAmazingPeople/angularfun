@@ -1,0 +1,27 @@
+.comp{
+  float: left;
+  padding-left: 5em;
+}
+
+#name{
+  text-align: center;
+  font-size: 300%;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.bio{
+  color: #F29B30;
+  line-height: 1.6;
+  float: left;
+  max-width: 50%;
+  padding-left: 30px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+

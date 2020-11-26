@@ -1,0 +1,32 @@
+/* DashboardComponent's private CSS styles */
+#textMain{
+  color: #F29B30;
+  padding: 40px;
+  margin-right: 20px;
+  border: 2px solid #F29B30;
+  text-align: center;
+  line-height: 1.8;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+#dream{
+  text-align: center;
+  font-size: 350%;
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+
+@media (max-width: 600px) {
+  .module {
+    font-size: 10px;
+    max-height: 75px; }
+}
+@media (max-width: 1024px) {
+  .grid {
+    margin: 0;
+  }
+  .module {
+    min-width: 60px;
+  }
+}

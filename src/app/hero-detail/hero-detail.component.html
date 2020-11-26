@@ -1,0 +1,11 @@
+<div *ngIf="hero">
+  <h2 id="name">{{hero.name | uppercase}}</h2>
+
+  <div class="clearfix center">
+  <div class="comp">
+    <img src="../../assets/hero_{{hero.id}}.jpg" alt="Laika">
+  </div>
+
+  <div class="bio">{{hero.bio}}</div>
+  </div>
+</div>
