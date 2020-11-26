@@ -1,4 +1,4 @@
-[{
+{"heroes": [{
 		"id": 11,
 		"name": "Dr Nice"
 	},
@@ -39,3 +39,4 @@
 		"name": "Tornado"
 	}
 ]
+}
